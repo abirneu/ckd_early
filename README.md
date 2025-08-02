@@ -16,7 +16,7 @@
 
 ## 📸 Screenshots
 
-| Home Page | Prediction Interface | Test Recommendations |
+| Home Page | Doctor Dashboard | Test Recommendations and Prediction Interface |
 |------------------|----------------------|-----------------------|
 | ![Home Page](project_ss/homepage1.png) | ![Dashboard](project_ss/doctordashboard.png) | ![Prediction](project_ss/patientprofile1.png) | 
 
