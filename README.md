@@ -9,7 +9,7 @@
 
 ## 🌟 Features
 
-- **95.2% Accurate CKD Prediction** using hybrid ensemble model (RF + XGBoost + Logistic Regression)
+- **95.2% Accurate CKD Prediction** using hybrid ensemble model (RF + SVM + Logistic Regression)
 - **Personalized Test Recommendations** based on patient symptoms and risk factors
 - **Doctor-Centric Interface** with priority alerts and explainable AI outputs
 - **Lightweight Deployment** (Works on machines with as low as 4GB RAM)
@@ -45,3 +45,29 @@ python manage.py migrate
 
 # Run server
 python manage.py runserver
+
+🧠 Model Architecture
+https://docs/architecture.png
+
+Our ensemble combines:
+
+Random Forest (Handles non-linear relationships)
+
+SVM
+
+Logistic Regression (Probabilistic calibration)
+
+📂 Dataset
+We used the Chronic Kidney Disease Dataset from UCI Machine Learning Repository, enhanced with:
+
+400+ patient records from partner clinics
+
+25 clinical features including:
+
+Blood pressure
+
+Serum creatinine
+
+Albumin levels
+
+Diabetes status
