@@ -18,7 +18,7 @@
 
 | Doctor Dashboard | Prediction Interface | Test Recommendations |
 |------------------|----------------------|-----------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Prediction](screenshots/prediction.png) | ![Tests](screenshots/tests.png) |
+| ![Dashboard](project_ss/doctordashboard.png) | ![Prediction](screenshots/prediction.png) | ![Tests](screenshots/tests.png) |
 
 ## 🛠️ Installation
 
